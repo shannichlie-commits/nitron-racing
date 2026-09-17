@@ -1,0 +1,13 @@
+{
+  "name": "nitron-gps",
+  "version": "3.0.0",
+  "description": "Nitron GPS - Motorcycle GPS Speedometer and Ride Tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
